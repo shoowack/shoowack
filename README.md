@@ -4,7 +4,7 @@
 - 📫 You can reach me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-shoowack-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shoowack/)
-![https://www.linkedin.com/in/ivan-suvak-martinovic/](https://img.shields.io/badge/LinkedIn-ivan--suvak--martinovic-0a66c2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivan--suvak--martinovic-0a66c2)](https://www.linkedin.com/in/ivan-suvak-martinovic/)
 
 
 <!---
