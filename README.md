@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS
 - 📫 You can reach me on:
 
-[![GitHub](https://img.shields.io/badge/GitHub-shoowack-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shoowack/)
+[![GitHub](https://img.shields.io/badge/GitHub-shoowack-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shoowack/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivan--suvak--martinovic-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ivan-suvak-martinovic/)
 
 
