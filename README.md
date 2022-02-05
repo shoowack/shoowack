@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, JavaScript, WordPress, React, Symfony, UX/UI...
 - 🌱 I’m currently learning NextJS
 - 📫 You can reach me on:
-![https://github.com/shoowack/](https://img.shields.io/badge/GitHub-shoowack-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[https://img.shields.io/badge/GitHub-shoowack-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://github.com/shoowack/)
 ![https://www.linkedin.com/in/ivan-suvak-martinovic/](https://img.shields.io/badge/LinkedIn-ivan--suvak--martinovic-0a66c2)
 
 <!---
