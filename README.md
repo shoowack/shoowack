@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Ivan and I work as Full Stack Developer in Canada
-- 👀 I’m interested in PHP, JavaScript, WordPress, React, Symfony, UX/UI...
+- 👀 I’m interested in PHP, JavaScript, WordPress, React, Symfony, UX/UI, Contentful...
 - 🌱 I’m currently learning NextJS
 - 📫 You can reach me on:\
 \
